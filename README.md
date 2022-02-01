@@ -16,4 +16,4 @@ Terima Kasih.
 
 Proyek ini dipersembahkan untuk,
 
-<img src="https://yt3.ggpht.com/ytc/AKedOLQYDA4nPiBD_u9F9D5gXZf6sCNmeqHk0LJQCtnxVg=s900-c-k-c0x00ffffff-no-rj" width="1000" height="1000" />
+<img src="https://yt3.ggpht.com/ytc/AKedOLQYDA4nPiBD_u9F9D5gXZf6sCNmeqHk0LJQCtnxVg=s900-c-k-c0x00ffffff-no-rj" width="1000" height="800" />
